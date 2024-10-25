@@ -1,0 +1,57 @@
+[
+    {
+      "player_id": 1,
+      "player_name": "Liton Kumar Das",
+      "player_img": "https://i.ibb.co.com/nr8Xk1d/liton.webp",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "110000",
+      "rating": "Rating"
+    },
+    {
+      "player_id": 2,
+      "player_name": "Mehedi Hasan Miraz",
+      "player_img": "https://i.ibb.co.com/NnmXNnd/mehedi.jpg",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "160000",
+      "rating": "Rating"
+    },
+    {
+      "player_id": 3,
+      "player_name": "Musfiqur Rohman",
+      "player_img": "https://i.ibb.co.com/q1YskZv/musfiqur.webp",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "140000",
+      "rating": "Rating"
+    },
+    {
+      "player_id": 4,
+      "player_name": "Mostafijur Rohoman",
+      "player_img": "https://i.ibb.co.com/XL2cfVH/mustafijur.webp",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "150000",
+      "rating": "Rating"
+    },
+    {
+      "player_id": 5,
+      "player_name": "Shakib Al Hasan",
+      "player_img": "https://i.ibb.co.com/km6tHgy/shakib.jpg",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "140000",
+      "rating": "Rating"
+    },
+    {
+      "player_id": 6,
+      "player_name": "Taskin",
+      "player_img": "https://i.ibb.co.com/PzCX3mC/taskin.jpg",
+      "country": "Bangladesh",
+      "batting_style": "Left-Hand-Bat",
+      "price": "130000",
+      "rating": "Rating"
+    }
+  ]
+  
